@@ -62,12 +62,17 @@ footer{
 /* SKILLS */
 
 .skill_outer{
-  background-color:#cacaca;
+	background-color:#cacaca;
+	margin-bottom:15px;
 }
 
 .skill{
 	background-color: #f90067;
 	height:10px;
+}
+
+#skills p{
+	margin-bottom:5;
 }
 
 /* PAPERS */
