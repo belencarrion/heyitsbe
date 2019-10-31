@@ -37,6 +37,11 @@ main{
 	text-transform: uppercase;
 }
 
+.navbar-brand{
+	color:#ff2b83 !important;
+	font-size:2em;
+}
+
 /* ABOUT ME */ 
 
 h1{
